@@ -76,7 +76,7 @@ Stars = nighttime only
 ![image alt](https://github.com/poojamjponni/COSMIC-COMPASS/blob/66fd43ec36772e4d5ace4bea2580572d5454e32a/Screenshot%202026-01-31%20020113.png)
 ![image alt](https://github.com/poojamjponni/COSMIC-COMPASS/blob/66fd43ec36772e4d5ace4bea2580572d5454e32a/Screenshot%202026-01-31%20020125.png)
 ![image alt](https://github.com/poojamjponni/COSMIC-COMPASS/blob/66fd43ec36772e4d5ace4bea2580572d5454e32a/Screenshot%202026-01-31%20020150.png)
-
+![image alt](https://github.com/poojamjponni/COSMIC-COMPASS/blob/4d8d1b3b27cd54bdf9a28923a02a33a11c6fa5ea/WhatsApp%20Image%202026-01-31%20at%202.23.48%20AM.jpeg)
 🧪 Test It Quick
 Open api_tester.html in browser → enter API URL → test "mars" at your location.
 
