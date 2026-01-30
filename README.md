@@ -1,25 +1,27 @@
-#Cosmic Compass - Find Stars with Your Phone!
+# Cosmic Compass - Find Stars with Your Phone!
 A super fun MIT App Inventor app that turns your phone into a star finder. Point your compass at planets, stars, the sun, or moon – it'll show you exactly where to look!
 
-##📱 What It Does
-###🧭 Live Compass – Yellow arrow points right to your target
 
-###🌍 GPS Magic – Uses your location for spot-on directions
+![image alt](https://github.com/poojamjponni/COSMIC-COMPASS/blob/8a29e9e7ec7c5fa38079c8876c7949204d5efebc/Screenshot%202026-01-31%20015711.png)
+## 📱 What It Does
+### 🧭 Live Compass – Yellow arrow points right to your target
 
-###🪐 Tons of Objects – Planets, bright stars, sun & moon
+### 🌍 GPS Magic – Uses your location for spot-on directions
 
-###📊 Smart Info – Azimuth, altitude, "visible?" status
+### 🪐 Tons of Objects – Planets, bright stars, sun & moon
 
-###🎨 Cool Visuals – Spinning compass with N/E/S/W markers
+### 📊 Smart Info – Azimuth, altitude, "visible?" status
 
-###⏱️ Real-Time Updates – Works as you turn your phone
+### 🎨 Cool Visuals – Spinning compass with N/E/S/W markers
 
-##🌌 What You Can Find
+### ⏱️ Real-Time Updates – Works as you turn your phone
+
+## 🌌 What You Can Find
 Planets: Mercury, Venus, Mars, Jupiter, Saturn
 Bright Stars: Sirius, Vega, Arcturus, Rigel, Betelgeuse, Altair, Aldebaran, Antares, Spica, Pollux, Fomalhaut, Deneb, Regulus, Canopus, Capella
 Solar System: ☀️ Sun, 🌙 Moon
 
-##🚀 How to Use It
+## 🚀 How to Use It
 Type "mars" (lowercase!) and hit "search"
 
 App grabs your GPS + calls the API
@@ -27,9 +29,9 @@ App grabs your GPS + calls the API
 compass appears – rotate till it points straight up
 
 
-##🛠️ Super Easy Setup
+## 🛠️ Super Easy Setup
 
-# ##1. Fire up the API
+### 1. Fire up the API
 pip install flask flask-cors
 python simple_celestial_api.py
 
@@ -51,7 +53,7 @@ Hit Run → copy the URL
 
 Update app with that URL
 
-###🎮 How to Play
+### 🎮 How to Play
 text
 1. Go outside (GPS needs sky!)
 2. Type "jupiter" → Find
