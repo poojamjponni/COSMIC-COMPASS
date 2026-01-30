@@ -3,6 +3,7 @@ A super fun MIT App Inventor app that turns your phone into a star finder. Point
 
 
 ![image alt](https://github.com/poojamjponni/COSMIC-COMPASS/blob/8a29e9e7ec7c5fa38079c8876c7949204d5efebc/Screenshot%202026-01-31%20015711.png)
+![image alt](https://github.com/poojamjponni/COSMIC-COMPASS/blob/66fd43ec36772e4d5ace4bea2580572d5454e32a/Screenshot%202026-01-31%20015727.png)
 ## 📱 What It Does
 ### 🧭 Live Compass – Yellow arrow points right to your target
 
@@ -66,6 +67,15 @@ Wave phone in figure-8 to calibrate compass
 Stars = nighttime only
 
 "Visible" = above horizon
+
+
+![image alt](https://github.com/poojamjponni/COSMIC-COMPASS/blob/66fd43ec36772e4d5ace4bea2580572d5454e32a/Screenshot%202026-01-31%20015846.png)
+![image alt](https://github.com/poojamjponni/COSMIC-COMPASS/blob/66fd43ec36772e4d5ace4bea2580572d5454e32a/Screenshot%202026-01-31%20015859.png)
+![image alt](https://github.com/poojamjponni/COSMIC-COMPASS/blob/66fd43ec36772e4d5ace4bea2580572d5454e32a/Screenshot%202026-01-31%20015911.png)
+![image alt](https://github.com/poojamjponni/COSMIC-COMPASS/blob/66fd43ec36772e4d5ace4bea2580572d5454e32a/Screenshot%202026-01-31%20020056.png)
+![image alt](https://github.com/poojamjponni/COSMIC-COMPASS/blob/66fd43ec36772e4d5ace4bea2580572d5454e32a/Screenshot%202026-01-31%20020113.png)
+![image alt](https://github.com/poojamjponni/COSMIC-COMPASS/blob/66fd43ec36772e4d5ace4bea2580572d5454e32a/Screenshot%202026-01-31%20020125.png)
+![image alt](https://github.com/poojamjponni/COSMIC-COMPASS/blob/66fd43ec36772e4d5ace4bea2580572d5454e32a/Screenshot%202026-01-31%20020150.png)
 
 🧪 Test It Quick
 Open api_tester.html in browser → enter API URL → test "mars" at your location.
