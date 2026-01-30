@@ -80,8 +80,6 @@ Stars = nighttime only
 🧪 Test It Quick
 Open api_tester.html in browser → enter API URL → test "mars" at your location.
 
-🔧 API Endpoints (Nerd Stuff)
-text
-GET /objects          # See all targets
+🔧 API Endpoints 
 GET /position?object=mars&lat=10.85&lon=76.27
 Returns: {azimuth: 245°, altitude: 30°, status: "Visible"}
